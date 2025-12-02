@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Employment Contract</title>
-<link rel="shortcut icon" href="logo.html/logo.png.jpg" type="image/x-icon">
+<link rel="shortcut icon" href="logo.png.jpg" type="image/x-icon">
 
 <style>
     body {
@@ -103,7 +103,7 @@
 
 <div class="container">
 
-    <img src="logo.html/logo.png.jpg" alt="Company Logo" class="logo">
+    <img src="logo.png.jpg" alt="Company Logo" class="logo">
 
     <h1>Employment Contract</h1>
 
